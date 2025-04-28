@@ -53,7 +53,7 @@ Partnering with clients to build innovative, production-grade solutions:
 
 ## 🔥 Contribution Activity
 
-![GitHub Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=subhamagrawal-neurabit&theme=github-compact)
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=subhamagrawal-neurabit&theme=github-dark)
 
 ---
 
