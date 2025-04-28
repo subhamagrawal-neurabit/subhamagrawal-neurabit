@@ -13,7 +13,7 @@ I thrive at the intersection of:
 - 🔒 **IoT Networking & Secure Remote Access** – VPN, Reverse SSH, Apache Guacamole
 
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=subhamagrawal-neurabit)
-
+[![Hire Me](https://img.shields.io/badge/🚀 Hire%20Me-Freelance%20AI%20%26%20Robotics-blue)](https://www.upwork.com/freelancers/subhamagrawal)
 ---
 
 ## 🚧 Current Challenges
