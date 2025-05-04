@@ -44,19 +44,6 @@ Partnering with clients to build innovative, production-grade solutions:
 
 ---
 
-## 📊 GitHub Stats
-
-![Subham's GitHub Stats](https://github-readme-stats.vercel.app/api?username=subhamagrawal-neurabit&show_icons=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=subhamagrawal-neurabit&layout=compact&theme=tokyonight)
-
----
-
-## 🔥 Contribution Activity
-
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=subhamagrawal-neurabit&theme=github-dark)
-
----
-
 ## 📢 Let's Connect
 
 - 💼 **LinkedIn**: [linkedin.com/in/subhamagrawal](https://www.linkedin.com/in/subham98/)
